@@ -1,3 +1,4 @@
+#TODO Search through the projects and try to simulate them on the lab arduino.
 
 # Arduino Examples with Proteus Simulations 🎛️
 
